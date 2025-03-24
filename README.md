@@ -14,6 +14,15 @@ AI-powered tool that helps create personalized travel itineraries based on your 
 - Local insights for attractions and events
 - Feedback system to improve recommendations
 
+## Technologies Used
+
+- **Python** - Programming language
+- **OpenAI API** - Powers the AI recommendations and conversations
+- **Streamlit** - Web interface framework
+- **SQLite** - Local database storage
+- **LangChain** - Prompt template management
+- **Tiktoken** - Token counting for API optimization
+
 ## Quick Start
 
 1. **Clone and setup:**
